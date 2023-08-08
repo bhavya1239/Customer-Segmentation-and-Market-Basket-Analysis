@@ -1,1 +1,1 @@
-# Customer-Segmentation-and-Market-Basket-Analysis
+# Market Basket Analysis
